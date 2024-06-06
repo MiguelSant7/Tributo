@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Tributo a Mamonas assassinas</title>
+</head>
+
+<body>
+    <!-- Cabeçalho -->
+    <header>
+        <h1><a id="Título-da-página">Mamonas Assassinas</a></h1>
+        <h3></h3>
+        <img src="https://img.estadao.com.br/thumbs/640/resources/jpg/2/6/1531418233462.jpg" width="400" height="250">
+    </header>
+    <main>
+        <!-- Guia -->
+        <section>
+            <ul>
+                <li> <a href="#Ficha">Ficha</a></li>
+                <li> <a href="#Sobre">Sobre</a></li>
+                <li> <a href="#Carreira">Carreira</a></li>
+                <li> <a href="#Texto1">Formação da banda(Utopia) & Origem dos membros</a></li>
+                <li> <a href="#Texto2">Rick Bonadio, gravação do vinil e o fracasso comercial</a></li>
+                <li> <a href="#Texto3">Mudança de perfil e gravação da demo tape</a></li>
+                <li> <a href="#Texto4">Mamonas Assassinas</a></li>
+                <dt> <a href="#Sub1">Maio de 1995: O álbum homônimo e o sucesso comercial</a></dt>
+                <dt> <a href="#Sub2">Janeiro de 1996: Segundo show no Thomeuzão</a></dt>
+                <li> <a href="#Prêmios">Prêmios</a></li>
+                <li> <a href="#Referências">Referêcia</a></li>
+            </ul>
+        </section>
+        <!-- Ficha -->
+        <section>
+            <aside>
+                <p>
+                <h2 id="Ficha">Ficha</h2>
+                </p>
+                <table border="1">
+                    <tr>
+                        <th>Nome:</th>
+                        <td>Mamonas Assassinas</td>
+
+                    </tr>
+                    <tr>
+                        <th>Origem:</th>
+                        <td>Garulhos, SP(Brasil)</td>
+                    </tr>
+                    <tr>
+                        <th>Gênero:</th>
+                        <td>rock cômico,
+                            hard rock,
+                            pop rock,
+                            pagode romântico,
+                            forró,
+                            vira,
+                            funk metal</td>
+                    </tr>
+                    <tr>
+                        <th>Integrantes:</th>
+                        <td>Dinho
+                            Bento Hinoto
+                            Samuel Reoli
+                            Júlio Rasec
+                            Sérgio Reoli</td>
+                    </tr>
+                </table>
+            </aside>
+        </section>
+        <!-- Conteúdo -->
+        <section>
+            <h2 id="Sobre">Sobre</h2>
+            <p>
+                Mamonas Assassinas, também conhecida como Mamonas, foi uma banda brasileira de rock formada em
+                Guarulhos em 1995, originada da banda Utopia. Notabilizaram-se por suas composições que
+                conciliavam pop rock com gêneros musicais populares, tais como sertanejo, heavy metal, pagode romântico,
+                vira e forró, e também por suas apresentações irreverentes e excêntricas. Tais fatores tornaram o grupo
+                um notável expoente do rock cômico, gênero antagônico ao rock alternativo que seus integrantes vinham
+                aplicando no repertório da banda Utopia.
+            </p>
+            <h2 id="Carreira">Carreria</h2>
+            <p>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Fotografia_hist%C3%B3rica_de_Guarulhos_67.jpg/279px-Fotografia_hist%C3%B3rica_de_Guarulhos_67.jpg"
+                    width="250" height="200">
+            <h3 id="Texto1">1989-94: Formação da banda(Utopia) & Origem dos membros</h3>
+            Em março de 1989, Sérgio Reis de Oliveira(Sérgio Reoli) ao trabalhar na empresa de máquinas de escrever
+            Olivetti, conheceu Maurício Hinoto, irmão de Alberto Hinoto(que mais tarde adotaria o nome artístico de
+            Bento Hinoto) Ao saber que Sérgio era baterista, Maurício decidiu apresentar o irmão, que tocava guitarra. A
+            partir daí, Sérgio conheceu Alberto e decidiram criar uma banda, Contudo, ao ver Sérgio e Bento ensaiarem em
+            sua casa, Samuel se interessou pela música e passou a tocar baixo elétrico. Estava formada, assim, a
+            "cozinha" da banda, com baixo, guitarra e bateria, formando o grupo Utopia, durante um show na periferia da
+            Grande São Paulo em julho de 1990, o público solicitou que o trio executasse a canção "Sweet Child o' Mine",
+            da banda americana Guns N' Roses. Como desconheciam a letra, pediram a um dos espectadores que subisse ao
+            palco para ajudá-los. Alecsander Alves (que mais tarde adotaria o nome artístico de Dinho) voluntariou-se
+            para cantar. Mesmo não sabendo a letra, sua performance e embromation provocaram grandes risadas da plateia.
+            E foi assim que, com sua performance escrachada, garantiu o posto de vocalista da banda.
+            </p>
+            <p>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Rick_Bonadio.png" width="200"
+                    height="200">
+            <h3 id="Texto2">1992: Rick Bonadio, gravação do vinil e o fracasso comercial</h3>
+            Em 1992, a banda conheceu Rick Bonadio, e em seu estúdio produziram o vinil Utopia, seu primeiro e único
+            disco independente, composto por 6 canções, das mil cópias produzidas, <em>apenas cem foram vendidas</em>,
+            aos
+            poucos, os integrantes começaram a perceber que as brincadeiras e canções de paródia que faziam nos ensaios
+            para se divertirem eram mais bem recebidas pelo público do que covers e canções sérias. Gradualmente, foram
+            apresentando nos shows algumas paródias musicais, que foi mais aceito pelo público.
+            </p>
+            <p>
+                <img src="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a7/Mamonas_Assassinas_-_Fita_demo.png/249px-Mamonas_Assassinas_-_Fita_demo.png"
+                    width="250" height="200">
+            <h3 id="Texto3">1994: Mudança de perfil e gravação da demo tape</h3>
+            Após perceberem que eles deveriam mudar de perfil, adotando uma veia mais cômica, gravaram uma fita demo
+            com duas canções. Rodrigo Castanho, produtor e técnico de masterização, foi quem acompanhou a gravação, que
+            ocorreu em uma madrugada do mês de outubro de 1994, no antigo estúdio do produtor Rick Bonadio, na zona
+            norte de São Paulo, os músicos gravaram as faixas “Mina (Minha Pitchulinha)”, que mais tarde seria conhecida
+            como “Pelados em Santos”, e “Robocop Gay”.
+            </p>
+            <p>
+            <h3 id="Texto4">1995-96: Mamonas Assassinas</h3>
+            A banda enviou a fita demo com as três canções ("Pelados em Santos", "Robocop Gay" e "Vira-Vira") para três
+            gravadoras, entre elas Sony Music e EMI. Rafael Ramos, baterista da banda Baba Cósmica e filho do diretor
+            artístico da EMI, João Augusto Soares, gostou tanto da sonoridade da banda que insistiu na contratação.
+            Rafael dava dicas para o pai sobre bandas novas que enviavam suas canções para a gravadora. Num primeiro
+            momento, João Augusto Soares se negou a assinar com a banda. Mas Rafael insistiu, e conseguiu que em 7 de
+            abril de 1995 seu pai assistisse a um show da banda, porém após assistir o show, João Augusto assinou
+            contrato com eles.
+            <h4 id="Sub1">Maio de 1995: O álbum homônimo e o sucesso comercial</h4>
+            Porém, antes de gravar o disco, surgiu um problema: a EMI queria pelo menos 10 canções para o CD. A banda
+            mentiu, informando que já tinham 7 canções e que em 1 semana poderiam compor as demais, sendo que na verdade
+            eles só tinham as 3 enviadas a gravadora. Em uma semana, eles conseguiram compor 12 canções, totalizando 5 a
+            mais do que o mínimo exigido pela gravadora, Após gravar o disco, que foi lançado no dia 23 de junho de
+            1995, a banda ainda sim passou desapercebida nas lojas. Porém, no dia seguinte, quando a 89 FM A Rádio Rock
+            tocou a canção "Vira-Vira", o álbum ganhou reconhecimento pela mídia. Foi o disco de estreia que mais vendeu
+            no Brasil.
+            <img src="https://upload.wikimedia.org/wikipedia/pt/thumb/3/3e/Mamonas_Assassinas_em_Fortaleza.jpg/375px-Mamonas_Assassinas_em_Fortaleza.jpg"
+                width="200" height="190">
+            <h4 id="Sub2">Janeiro de 1996: Segundo show no Thomeuzão</h4>
+            No dia 6 de janeiro de 1996, eles tocaram no Thomeuzão, em Guarulhos, que anos antes os havia rejeitado.
+            Este show ficou marcado por conta da banda de abertura dos Mamonas terem sido eles mesmos só que vestidos de
+            acordo com a banda Utopia e tocando músicas do antigo grupo (realizando o desejo deles de anos antes), Os
+            cinco integrantes preparavam uma carreira internacional, com partida para Portugal agendada para 3 de março
+            de 1996, porém faleceram num acidente aéreo um dia antes.
+            </p>
+        </section>
+        <!-- Prêmios -->
+        <section>
+            <h1 id="Prêmios">Prêmios</h1>
+            <table border="1">
+                <thead>
+                    <tr>
+                        <th>Ano</th>
+                        <th>Prêmio</th>
+                        <th>Categoria</th>
+                        <th>Indicação</th>
+                        <th>Resultado</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td rowspan="2">1995</td>
+                        <td>Troféu Xuxa Hits</td>
+                        <td></td>
+                        <td>Mamonas Assassinas</td>
+                        <td>Venceu</td>
+                    </tr>
+                    <tr>
+                        <td>1° Prêmio SBT de Música</td>
+                        <td>Revelação do Ano</td>
+                        <td>Mamonas Assassinas</td>
+                        <td>Venceu</td>
+                    </tr>
+                    <tr>
+                        <td rowspan="2">1996</td>
+                        <td rowspan="2">Troféu Imprensa de 1996</td>
+                        <td>Revelação do Ano</td>
+                        <td>Mamonas Assassinas</td>
+                        <td>Venceu</td>
+                    </tr>
+                    <tr>
+                        <td>Melhor Música</td>
+                        <td>Pelados em Santos</td>
+                        <td>Venceu</td>
+                    </tr>
+                    <tr>
+                        <td rowspan="2">2012</td>
+                        <td rowspan="2">Grande Prêmio do Cinema Brasileiro</td>
+                        <td>Melhor Trilha-Sonora</td>
+                        <td>Documentário Mamonas Para Sempre</td>
+                        <td>Indicado</td>
+                    </tr>
+                </tbody>
+            </table>
+        </section>
+    </main>
+    <!-- Rodapé -->
+    <footer>
+        <p id="Referências">
+            <strong>Referêcia: <a
+                    href="https://pt.wikipedia.org/wiki/Mamonas_Assassinas#Pr%C3%AAmios">Wikipedia</a></strong>
+        <p>
+        <h3><a href="#Título-da-página">Voltar ao início da pagina</a></h3>
+        </p>
+        <p>
+            <strong>Tributo criado em: 02/01/2024<strong>
+        </p>
+    </footer>
+</body>
+
+</html>
